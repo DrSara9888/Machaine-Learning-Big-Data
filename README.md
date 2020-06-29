@@ -1,4 +1,4 @@
-# Machaine-Learning-Big-Data
+# Machaine-Learning-Big-Data Data Quilaty
 
 Cleaning Data and removing outlires are essential in any Big Data project. 
 The results of the any project are more efficient if you prepare your Data.
